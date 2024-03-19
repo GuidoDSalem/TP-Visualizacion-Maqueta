@@ -1,0 +1,56 @@
+/* Estilos globales */
+h1, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#titulo {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #00640E;
+    color: white;
+}
+
+#subt {
+    color: #ED26A9;
+    letter-spacing: 2px;
+}
+
+.graficos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 1366;
+    max-height: 768;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.caja1 {
+    height: 400px;
+    width: 500px;
+}
+
+.caja2 {
+    height: 400px;
+    width: 500px;
+    margin-left: 150px;
+}
+
+.imagenes {
+    margin-left: 50px;
+    height: 288.92px;
+    width: 400px;
+}
+
+.epigrafe {
+    font-size: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+#par2 {
+    margin-left: 450px;
+}
